@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+
+    width: 960px;
+    margin: 0 auto;
+
+}
+
+header{
+    height: 70px;
+}
+
+#logos img {float: left;
+    }
+
+#logos h2 {font-family: 'Brush Script MT', cursive;
+    margin-bottom: 0px;
+}
+
+#logos p {margin: 0;
+    font-size: 5px 
+           }
+
+#icon {
+    float: right;
+}
+
+hr{
+    background-image: url('imgs/list-bg.png');
+    height: 20px;
+}
+
+#left{
+    float: left;
+}
+
+#right{
+    float: right;
+}
+
+#van{
+    clear: both;
+}
+#all{
+    background-image: url('imgs/list-bg.png');
+    margin-bottom: 20px;
+}
+
+#van img{
+    float: left;
+}
+
+hr {background-image: url(imgs/list-bg.png);
+    height: 20px;
+}
+
+#van h2 {
+    
+    margin-top: 9px;
+    margin-bottom: 10px;
+}
+
